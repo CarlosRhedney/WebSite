@@ -1,0 +1,24 @@
+html, body{
+	overflow-x: hidden;
+}
+div#float_menu{
+	position: absolute;
+	left: -280px;
+	width: 280px;
+	height: 100%;
+	top: 0px;
+	background-color: #CCC;
+	z-index: 9999;
+	transition: left 0.8s ease;
+}
+
+div#float_menu.active{
+	left: 0;
+	transition: left 0.8s ease;
+}
+.cor{
+	color: gold;
+}
+.cor:hover{
+	color: pink;
+}
