@@ -1,5 +1,6 @@
 <title>WebSite</title>
 <link rel="stylesheet" type="text/css" href="StyleCss/estilo9.css" />
+<link rel="stylesheet" media="screen" href="StyleCss/estilo9.css" />
 <meta charset="UTF-8" />
 <link rel="icon" type="icon" href="img/rhcp.jpg" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
