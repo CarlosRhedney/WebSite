@@ -7,7 +7,7 @@
            <div class="icons">
             <ul>
               <li>
-                <a href="#">
+                <a href="https://www.facebook.com/carlos.rhedney.31" target="_blank" rel="noopener">
                  <span class="fab fa-facebook-f"></span>
                 </a>
               </li>
